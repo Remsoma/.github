@@ -3,7 +3,7 @@
   
 # Seja bem-vindo(a) à Remsoma  :seedling: 
 
-<img alt="img-readme" src="img-readme.jpg" />
+<img alt="img-readme" src="../readme-remsoma-img.png" />
 
 # O que é a Remsoma?
 
@@ -11,7 +11,7 @@
 
 <div align="justify">
 
-A Remsoma foi um website desenvolvido em dupla como um projeto de conclusão do primeiro semestre do curso de Ciência da Computação. Tal aplicação foi feita em HTML, CSS e JS e objetiva o combate à poluição em São Paulo. 
+A Remsoma foi um website desenvolvido em dupla ([Maria](https://github.com/m-bzrr) e [Kaique](https://github.com/Kaique0302)) como um projeto de conclusão do primeiro semestre do curso de Ciência da Computação. Tal aplicação foi feita em HTML, CSS e JS e objetiva o combate à poluição em São Paulo. 
 
 O projeto definido pela Atividade Prática Supervisionada da matéria 'Programação Web Responsiva' propunha que o grupo de alunos desenvolvesse um site de no mínimo 12 páginas e com pelo menos 90% do conteúdo em HTML e CSS. Como também, ao decidir o tema para o site, a aplicação deveria ser focada em áreas onde a ação humana é crucial para promover mudanças significativas, ou seja, deveria envolver a proatividade na busca de soluções que mitiguem ou cessem os impactos humanos sobre o meio-ambiente em áreas próximas.
 
